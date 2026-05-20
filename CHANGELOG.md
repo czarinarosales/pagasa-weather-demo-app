@@ -34,3 +34,8 @@ Initial demo application with FastAPI backend, React frontend, PostgreSQL, Redis
 -Just Change the title of homepage
 
 
+### [1.1.0] -2026-05-20
+### changed
+-updated Realease workflow for github Action
+
+
