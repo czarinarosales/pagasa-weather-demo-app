@@ -38,4 +38,26 @@ Initial demo application with FastAPI backend, React frontend, PostgreSQL, Redis
 ### changed
 -updated Realease workflow for github Action
 
+### [1.1.1] -2026-05-20
+### changed
+-updated Realease workflow for github Action test 1
+
+### [1.1.2] -2026-05-20
+### changed
+-updated Realease workflow for github Action test 2
+
+### [1.1.3] -2026-05-20
+### changed
+-updated Realease workflow for github Action test 3
+
+### [1.1.4] -2026-05-20
+### changed
+-updated Realease workflow for github Action test 4
+
+### [1.1.5] -2026-05-21
+### changed
+-updated Realease workflow for github Action test 4
+
+
+
 
